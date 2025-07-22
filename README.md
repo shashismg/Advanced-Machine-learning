@@ -48,14 +48,5 @@ I built these to:
 
 ---
 
-## 🔮 What’s Coming Next?
-
-- [ ] LightGBM notebook  
-- [ ] GridSearch & RandomizedSearch tuning examples  
-- [ ] Benchmarking all models on the same dataset  
-
----
-
-
 
 > _“Boost your knowledge, one weak learner at a time.”_
